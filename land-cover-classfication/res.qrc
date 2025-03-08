@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon/add.png</file>
+        <file>res/icon/ashbin.png</file>
+        <file>res/icon/ashbin_choose.png</file>
+        <file>res/icon/play.png</file>
+    </qresource>
+</RCC>
